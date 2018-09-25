@@ -1,0 +1,9 @@
+{
+    "name": "ovnigames/ovnigames",
+    "description": "Games framerowk",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": "^7.2"
+    }
+}
